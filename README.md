@@ -40,3 +40,7 @@ Please run the 'npm test' command to test code.
 ## Questions
 
 If you have any questions about the project, please contact me at chern8998@gmail.com. You can find more of my work at https://github.com/CH3RNAND3Z.
+
+## Walkthrough Video 
+
+https://drive.google.com/file/d/1-9mDry2umSl2794lvo1YfXEMSyr4qLXL/view
