@@ -4,7 +4,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 const fs = require('fs');
 
 // Array of questions for user input
-const promptUser = () => {
+const questions = () => {
     return inquirer.prompt([
       {
         type: 'input',
@@ -58,7 +58,7 @@ const promptUser = () => {
 // Function to write README file and initialize app
 const init = async () => {
     try {
-      const answers = await promptUser();
+      const answers = await questions();
       const readme = generateMarkdown(answers);
       fs.writeFileSync('README.md', readme);
       console.log('README.md file generated successfully!');
