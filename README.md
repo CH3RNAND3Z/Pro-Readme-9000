@@ -6,6 +6,7 @@
 ## Description
 
 The idea behind this application is to provide the user with a quick and simple way to create a professional README file for their projects by simply answering a few quick questions.
+With just a few prompts a README file is generated for the user and saves them both time and effort, as developers we always seek efficiency in what we do.
 
 ## Table of Contents
 
