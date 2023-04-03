@@ -33,6 +33,25 @@ This project is licensed under the MIT license.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
+Starter code was provided by The University of Oregon Full-Stack Bootcamp: 
+
+https://github.com/coding-boot-camp/potential-enigma
+
+The following resources were referenced while designing this application:
+
+https://www.npmjs.com/package/inquirer/v/8.2.4
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+https://www.contributor-covenant.org/
+
+https://nodejs.org/
+
+https://nodejs.org/api/fs.html
+
+https://www.markdownguide.org/
+
+
 ## Tests
 
 Please run the 'npm test' command to test code.
