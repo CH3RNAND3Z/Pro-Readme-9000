@@ -1,5 +1,5 @@
 
- # Professional Readme Generator 9000
+ # Pro Readme 9000
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
